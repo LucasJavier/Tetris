@@ -1,0 +1,9 @@
+Dificultad=Media
+Izquierda=A
+Derecha=D
+Abajo=S
+Rotar=W
+HardDrop=Space
+Color=Normal
+Pausa=P
+FilasPiedra=Apagado
